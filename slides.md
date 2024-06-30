@@ -6,23 +6,22 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: >
-  ## Identifying Exoplanets with Deep Learning
+  ## Atmospheric Retrieval using Machine Learning
 
-  Presentation about a paper from Shallue and Vanderburg (2017) about
-  identifying exoplanets using deep learning
+  Presentation about different papers regarding the retrieval of exoplanetary atmospheres using different machine learning techniques
 drawings:
   persist: false
 transition: slide-left
-title: Identifying Exoplanets with Deep Learning
+title: Atmospheric Retrieval using Machine Learning
 mdc: true
 author: Matthias Heim
 download: true
-exportFilename: exoplanets-deep-learning
+exportFilename: atmospheric-retrieval-ml
 ---
 
-# Identifying Exoplanets with Deep Learning
+# Atmospheric Retrieval using Machine Learning
 
-A short introduction into how deep learning models try to identify exoplanets using convolutional neural networks (CNNs) from transit curves. <div class="mt-10"/>
+A short introduction into how machine learning techniques are able to retrieve exoplanetary atmospheric parameters. <div class="mt-10"/>
 (Image: ESA/Hubble, M. Kornmesser)
 
 <div class="pt-12">
@@ -43,295 +42,300 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-src: ./pages/paper_1.md
+src: ./pages/atm_retr.md
 hide: false
 ---
 
 ---
-src: ./pages/transit.md
+src: ./pages/fisher_2020.md
 hide: false
 ---
 
 ---
-transition: none
-src: ./pages/data_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages/data_1_2.md
+src: ./pages/cc.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/data_2.md
+src: ./pages_old/data_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/data_3.md
-hide: false
----
-
----
-src: ./pages/data_3_2.md
+src: ./pages_old/data_1_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/data_4.md
+src: ./pages_old/data_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/data_5.md
+src: ./pages_old/data_3.md
 hide: false
 ---
 
 ---
-src: ./pages/paper_autov.md
-hide: false
----
-
----
-transition: none
-src: ./pages/architecture_1.md
+src: ./pages_old/data_3_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/architecture_2.md
-hide: false
----
-
----
-src: ./pages/architecture_3.md
+src: ./pages_old/data_4.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/architecture_4.md
+src: ./pages_old/data_5.md
+hide: false
+---
+
+---
+src: ./pages_old/paper_autov.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/architecture_5.md
+src: ./pages_old/architecture_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_1.md
+src: ./pages_old/architecture_2.md
+hide: false
+---
+
+---
+src: ./pages_old/architecture_3.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_2.md
+src: ./pages_old/architecture_4.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_3.md
+src: ./pages_old/architecture_5.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_4.md
-hide: false
----
-
----
-src: ./pages/cnns_5.md
-hide: false
----
-
----
-src: ./pages/architecture_6.md
+src: ./pages_old/cnns_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_9.md
+src: ./pages_old/cnns_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_6.md
+src: ./pages_old/cnns_3.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_7.md
+src: ./pages_old/cnns_4.md
+hide: false
+---
+
+---
+src: ./pages_old/cnns_5.md
+hide: false
+---
+
+---
+src: ./pages_old/architecture_6.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_8.md
+src: ./pages_old/cnns_9.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_10.md
+src: ./pages_old/cnns_6.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/cnns_11.md
-hide: false
----
-
----
-src: ./pages/cnns_12.md
+src: ./pages_old/cnns_7.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/architecture_8.md
-hide: false
----
-
----
-src: ./pages/architecture_9.md
+src: ./pages_old/cnns_8.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/training_params_1.md
+src: ./pages_old/cnns_10.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/training_params_2.md
+src: ./pages_old/cnns_11.md
 hide: false
 ---
 
 ---
-src: ./pages/training_params_3.md
-hide: false
----
-
----
-src: ./pages/loss.md
+src: ./pages_old/cnns_12.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_1.md
+src: ./pages_old/architecture_8.md
+hide: false
+---
+
+---
+src: ./pages_old/architecture_9.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_1_1.md
+src: ./pages_old/training_params_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_2.md
+src: ./pages_old/training_params_2.md
+hide: false
+---
+
+---
+src: ./pages_old/training_params_3.md
+hide: false
+---
+
+---
+src: ./pages_old/loss.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_3.md
+src: ./pages_old/results_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_4.md
+src: ./pages_old/results_1_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_5.md
+src: ./pages_old/results_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_6.md
+src: ./pages_old/results_3.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_6_1.md
+src: ./pages_old/results_4.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/results_6_2.md
+src: ./pages_old/results_5.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/paper_results.md
+src: ./pages_old/results_6.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/one_more.md
+src: ./pages_old/results_6_1.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/one_more_1.md
+src: ./pages_old/results_6_2.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/one_more_2.md
-hide: false
----
-
----
-src: ./pages/one_more_3.md
+src: ./pages_old/paper_results.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/final.md
+src: ./pages_old/one_more.md
 hide: false
 ---
 
 ---
 transition: none
-src: ./pages/final_1.md
+src: ./pages_old/one_more_1.md
 hide: false
 ---
 
 ---
-src: ./pages/final_2.md
+transition: none
+src: ./pages_old/one_more_2.md
+hide: false
+---
+
+---
+src: ./pages_old/one_more_3.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages_old/final.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages_old/final_1.md
+hide: false
+---
+
+---
+src: ./pages_old/final_2.md
 hide: false
 ---
 
@@ -339,6 +343,6 @@ hide: false
 ---
 layout: image-right
 image: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
-src: ./pages/more.md
+src: ./pages_old/more.md
 hide: false
 ---
