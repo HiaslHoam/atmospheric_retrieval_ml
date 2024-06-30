@@ -5,7 +5,7 @@ Fisher et al. (2020)
 <div class="grid grid-cols-2 justify-center justify-items-center items-start">
 <div>  
 <a href="https://arxiv.org/pdf/1712.05044" target="_blank">
-  <img src="/images/1712.05044v1-01.png" class="max-h-100 shadow-xl hover:shadow-2xl ease-in-out duration-400" />
+  <img src="/images/Fisher_2020_AJ_159_192-01.png" class="max-h-100 shadow-xl hover:shadow-2xl ease-in-out duration-400" />
 </a>
 </div>
 <div class="mt-5 list">
