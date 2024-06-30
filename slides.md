@@ -31,7 +31,7 @@ A short introduction into how machine learning techniques are able to retrieve e
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/HiaslHoam/slidev_cluster_masses_dl" target="_blank" alt="GitHub" title="Open in GitHub"
+  <a href="https://github.com/HiaslHoam/atmospheric_retrieval_ml" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -53,6 +53,53 @@ hide: false
 
 ---
 src: ./pages/cc.md
+hide: false
+---
+
+---
+src: ./pages/retr_noisy_spec.md
+hide: false
+---
+
+---
+src: ./pages/bad_retr.md
+hide: false
+---
+
+---
+src: ./pages/cc_retr.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cc_retr_res.md
+hide: false
+---
+
+---
+src: ./pages/cc_retr_res_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/deg.md
+hide: false
+---
+
+---
+src: ./pages/deg_2.md
+hide: false
+---
+
+---
+src: ./pages/cc_test_real.md
+hide: false
+---
+
+---
+src: ./pages/fisher_2020_res.md
 hide: false
 ---
 
