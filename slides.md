@@ -1,7 +1,7 @@
 ---
 theme: seriph
 background: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
-favicon: https://cdn.icon-icons.com/icons2/2481/PNG/512/planet_icon_149820.png
+favicon: https://raw.githubusercontent.com/HiaslHoam/atmospheric_retrieval_ml/main/images/favicon.png
 class: text-center
 highlighter: shiki
 lineNumbers: false
