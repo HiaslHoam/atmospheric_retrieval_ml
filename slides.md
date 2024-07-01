@@ -63,7 +63,34 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/gan_spec_2.md
+hide: false
+---
+
+---
+src: ./pages/gan_spec_3.md
+hide: false
+---
+
+---
+src: ./pages/gan_res_vis.md
+hide: false
+---
+
+---
+src: ./pages/gan_res_post.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/gan_concl.md
+hide: false
+---
+
+---
+src: ./pages/gan_concl_2.md
 hide: false
 ---
 
