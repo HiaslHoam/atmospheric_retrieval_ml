@@ -10,7 +10,7 @@ McCauliff et al. (2015)
 </div>
 <div class="mt-5 list">
 
-* Random Forrest automatically assign labels to TCEs
+* Random Forest automatically assign labels to TCEs
 * Can use all of the data from the reduction pipeline
 * Used to create a catalog for further investigation which will be the training set for the deep model
 * 98.6% of candidates correctly identified 

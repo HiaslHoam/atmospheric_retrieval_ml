@@ -12,7 +12,7 @@ Fisher et al. (2020)
 * We transform these noisy spectra into cross correlation templates
 * 64 templates in total with 40 $v_r$ values each
 * Each template contains the CC for different parameters
-* This can then be used to train a Random Forrest
+* This can then be used to train a Random Forest
 
 </div>
 </div>

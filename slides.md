@@ -47,6 +47,27 @@ hide: false
 ---
 
 ---
+src: ./pages/zing_wald_2018.md
+hide: false
+---
+
+---
+src: ./pages/gans.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/gan_spec.md
+hide: false
+---
+
+---
+src: ./pages/gan_spec_2.md
+hide: false
+---
+
+---
 src: ./pages/fisher_2020.md
 hide: false
 ---
@@ -369,22 +390,6 @@ src: ./pages_old/one_more_3.md
 hide: false
 ---
 
----
-transition: none
-src: ./pages_old/final.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/final_1.md
-hide: false
----
-
----
-src: ./pages_old/final_2.md
-hide: false
----
 
 
 ---
