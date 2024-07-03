@@ -22,7 +22,7 @@ exportFilename: atmospheric-retrieval-ml
 # Atmospheric Retrieval using Machine Learning
 
 A short introduction into how machine learning techniques are able to retrieve exoplanetary atmospheric parameters. <div class="mt-10"/>
-(Image: ESA/Hubble, M. Kornmesser)
+(Image: ESA/Hubble, M. Kornmesser, Favicon: Freepik)
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -43,6 +43,37 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 src: ./pages/atm_retr.md
+hide: false
+---
+
+---
+src: ./pages/cobb_2018.md
+hide: false
+---
+
+---
+src: ./pages/bnns.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/bnns_pro_con.md
+hide: false
+---
+
+---
+src: ./pages/bnns_pro_con_2.md
+hide: false
+---
+
+---
+src: ./pages/bnn_res.md
+hide: false
+---
+
+---
+src: ./pages/bnn_res.md
 hide: false
 ---
 

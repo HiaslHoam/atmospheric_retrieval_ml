@@ -4,9 +4,7 @@ Goodfellow et al. (2014)
 
 <div class="grid grid-cols-2 justify-center justify-items-center items-center">
 <div>  
-<a href="https://arxiv.org/pdf/1809.06894" target="_blank">
-  <img src="/images/gan_ex.png" class="max-h-90 shadow-xl hover:shadow-2xl ease-in-out duration-400 p-5" />
-</a>
+  <img src="/images/gan_ex.png" class="max-h-90 shadow-xl p-5" />
 </div>
 <div class="ml-5 list">
 
