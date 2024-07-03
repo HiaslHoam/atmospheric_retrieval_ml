@@ -56,6 +56,25 @@ src: ./pages/rfs.md
 hide: false
 ---
 
+---
+src: ./pages/rfs_expl.md
+hide: false
+---
+
+---
+src: ./pages/rf_res.md
+hide: false
+---
+
+---
+src: ./pages/rf_ns_comp.md
+hide: false
+---
+
+---
+src: ./pages/rf_feat.md
+hide: false
+---
 
 ---
 src: ./pages/cobb_2018.md
