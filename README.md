@@ -1,11 +1,16 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Atmospheric Retrieval Using Machine Learning
+This is a [Slidev](https://github.com/slidevjs/slidev) presentation about four papers in which machine learning techniques are used to infer atmospheric parameters of exoplanets.
 
-To start the slide show:
+The Papers are:
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+## An Ensemble of Bayesian Neural Networks for Exoplanetary Atmospheric Retrieval
 
-Edit the [slides.md](./slides.md) to see the changes.
+https://iopscience.iop.org/article/10.3847/1538-3881/ab2390/pdf
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional Generative Adversarial Networks
+
+https://iopscience.iop.org/article/10.3847/1538-3881/aae77c/pdf
+
+## Interpreting High-resolution Spectroscopy of Exoplanets using Cross-correlations and Supervised Machine Learning (Fisher et al. 2020)
+
+https://iopscience.iop.org/article/10.3847/1538-3881/ab7a92/pdf

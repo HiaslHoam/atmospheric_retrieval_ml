@@ -68,12 +68,40 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/bnn_res.md
 hide: false
 ---
 
 ---
-src: ./pages/bnn_res.md
+transition: none
+src: ./pages/bnn_res_2.md
+hide: false
+---
+
+---
+src: ./pages/bnn_res_3.md
+hide: false
+---
+
+---
+src: ./pages/bnn_res_comp.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cobb_assumpt.md
+hide: false
+---
+
+---
+src: ./pages/cobb_assumpt_2.md
+hide: false
+---
+
+---
+src: ./pages/cobb_assumpt_3.md
 hide: false
 ---
 
@@ -183,276 +211,8 @@ hide: false
 ---
 
 ---
-transition: none
-src: ./pages_old/data_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/data_1_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/data_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/data_3.md
-hide: false
----
-
----
-src: ./pages_old/data_3_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/data_4.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/data_5.md
-hide: false
----
-
----
-src: ./pages_old/paper_autov.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/architecture_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/architecture_2.md
-hide: false
----
-
----
-src: ./pages_old/architecture_3.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/architecture_4.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/architecture_5.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_3.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_4.md
-hide: false
----
-
----
-src: ./pages_old/cnns_5.md
-hide: false
----
-
----
-src: ./pages_old/architecture_6.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_9.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_6.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_7.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_8.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_10.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/cnns_11.md
-hide: false
----
-
----
-src: ./pages_old/cnns_12.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/architecture_8.md
-hide: false
----
-
----
-src: ./pages_old/architecture_9.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/training_params_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/training_params_2.md
-hide: false
----
-
----
-src: ./pages_old/training_params_3.md
-hide: false
----
-
----
-src: ./pages_old/loss.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_1_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_3.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_4.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_5.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_6.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_6_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/results_6_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/paper_results.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/one_more.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/one_more_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages_old/one_more_2.md
-hide: false
----
-
----
-src: ./pages_old/one_more_3.md
-hide: false
----
-
-
-
----
 layout: image-right
 image: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
-src: ./pages_old/more.md
+src: ./pages/more.md
 hide: false
 ---

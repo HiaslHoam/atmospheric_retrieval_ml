@@ -8,7 +8,7 @@ Cobb et al. (2019)
 </div>
 
 <div class="row-span-1 grid grid-cols-2 min-w-100 gap-20 justify-start">  
-  <div class="max-w-90 opacity-20">
+  <div class="max-w-90">
 
   * The $R^2$ value for the BNN is better throughout
   * The ensemble of five BNNs is performing better than just one
