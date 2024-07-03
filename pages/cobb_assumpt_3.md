@@ -2,15 +2,9 @@
 
 Fisher et al. (2020)
 
-<div class="grid grid-rows-2 justify-center justify-items-center items-start">
+<div class="grid grid-rows-1 justify-center justify-items-center items-start">
 <div>  
-  <img src="/images/rf_clear.png" class="max-h-70 shadow-xl p-5" />
-</div>
-<div class="list mt-5">
-
-* Using the same parameters, a nested sampling approach (right) produces the same result
-* This is just an artifact of the training data that Cobb et al. missed and misinterpreted
-* The other parameters are driven by this lack of data in the training set
+  <img src="/images/rf_clear.png" class="max-h-95 shadow-xl p-5" />
 </div>
 </div>
 

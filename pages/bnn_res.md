@@ -16,7 +16,7 @@ Cobb et al. (2019)
   <div class="max-w-90 opacity-20">
 
   * Although the RF is performing worse, it is not that big of a difference
-  * Considering the complexity and computational cost of the BNN, I'm not convinced that this is a big improvement
+  * I'm not convinced that this approach offers significant improvement over RFs
   </div>
 </div>
 

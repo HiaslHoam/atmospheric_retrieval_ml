@@ -1,3 +1,7 @@
+---
+title: Results
+---
+
 # Results
 
 Cobb et al. (2019)
@@ -30,5 +34,5 @@ Cobb et al. (2019)
 </style>
 
 <!--
-Loss is negative log-likelihood
+WASP-12b Transmission spectra
 -->

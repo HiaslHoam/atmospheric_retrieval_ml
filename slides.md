@@ -47,6 +47,17 @@ hide: false
 ---
 
 ---
+src: ./pages/marquez_2018.md
+hide: false
+---
+
+---
+src: ./pages/rfs.md
+hide: false
+---
+
+
+---
 src: ./pages/cobb_2018.md
 hide: false
 ---
