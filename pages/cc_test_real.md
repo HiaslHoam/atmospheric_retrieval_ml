@@ -43,5 +43,6 @@ Fisher et al. (2020)
 </style>
 
 <!--
-KELT-9b HARPS-N spectroscopy
+Ultra Hot Jupiter KELT-9b HARPS-N spectroscopy
+Chosen because of high signal to noise due to high temps
 -->

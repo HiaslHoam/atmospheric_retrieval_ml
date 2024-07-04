@@ -23,9 +23,8 @@ Fisher et al. (2020)
 
 
 <img class="min-w-30 position-absolute top-56 left-52 rotate-10 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
-<div class="min-w-30 position-absolute top-42 left-76 bg-red-500 p-2 rounded-xl bg-opacity-40 shadow-xl max-w-80 backdrop-blur-md">
-This is not resolvable with GB observations and thus the degeneracy cannot be broken up. <br/><br/>
-But can this be resolved with higher resolution spectrographs?
+<div class="min-w-30 position-absolute top-52 left-76 bg-red-500 p-2 rounded-xl bg-opacity-40 shadow-xl max-w-80 backdrop-blur-md">
+This is not resolvable with GB observations and thus the degeneracy cannot be broken up
 </div>
 
 <style>
